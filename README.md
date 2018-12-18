@@ -6,3 +6,6 @@ There are 10 Sections and in each section there is folder for:
 - code (R files)
 - data (csv, json etc)
 - outputs (like html, pdf etc)
+
+Links to each Lecture code:
+1. []()
