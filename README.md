@@ -1,6 +1,6 @@
-# Code written while learning R from the course shown below.
+# Collection of programs, datasets and outputs generated while learning data science with R.
 
-[Data Science For Professionals With R](https://www.udemy.com/data-science-for-professionals/)
+Course Name: [Data Science For Professionals With R](https://www.udemy.com/data-science-for-professionals/)
 
 There are 10 Sections and in each section there is folder for:
 - code (R files)
